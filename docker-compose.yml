@@ -6,4 +6,4 @@ services:
     volumes:
       - .:/app
     working_dir: /app
-    command: python fix-coordinates.py
+    command: python fix-json-geojson.py

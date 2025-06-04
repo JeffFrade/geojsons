@@ -7,6 +7,7 @@ Esse projeto contempla os `GeoJSONs` dos distritos das seguintes cidades:
 - Santo André (`distritos-sa.geojson`).
 - São Bernardo do Campo (`distritos-sbc.geojson`).
 - São Caetano do Sul (`distritos-scs.geojson`).
+- Diadema (`distritos-diadema.geojson`).
 
 ** Os `GeoJSONs` estão dentro da pasta `geojsons`.
 
